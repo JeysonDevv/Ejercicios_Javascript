@@ -1,5 +1,5 @@
 //Esta es la definición de la función obtenerLongitud
-//Toma un parámetro 'cadena', que debe ser una cadena de texto
+//Toma un parámetro 'cadena', que debe ser una cadena de texto.
 
 function obtenerLongitud(cadena){
     return cadena.length; //Devuelve la longitud de la cadena con el método 'length'
